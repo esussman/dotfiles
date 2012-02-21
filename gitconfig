@@ -1,6 +1,6 @@
 [user]
-	name = Andrew Marshall
-	email = andrew@johnandrewmarshall.com
+	name = Evan Sussman
+	email = esussma1@binghamton.edu
 [core]
 	autocrlf = input
 	excludesfile = ~/.gitignore
