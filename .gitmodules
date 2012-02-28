@@ -7,9 +7,6 @@
 [submodule "vim/bundle/argtextobj"]
 	path = vim/bundle/argtextobj
 	url = https://github.com/vim-scripts/argtextobj.vim.git
-[submodule "vim/bundle/autoclose"]
-	path = vim/bundle/autoclose
-	url = https://github.com/vim-scripts/AutoClose--Alves.git
 [submodule "vim/bundle/camelcasemotion"]
 	path = vim/bundle/camelcasemotion
 	url = https://github.com/vim-scripts/camelcasemotion.git
@@ -81,7 +78,10 @@
 	url = https://github.com/plasticboy/vim-markdown
 [submodule "vim/bundle/vim-rails"]
 	path = vim/bundle/vim-rails
-	url = https://github.com/samjohn/vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "vim/bundle/vim-rake"]
+	path = vim/bundle/vim-rake
+	url = https://github.com/tpope/vim-rake.git
 [submodule "vim/bundle/vim-repeat"]
 	path = vim/bundle/vim-repeat
 	url = https://github.com/tpope/vim-repeat
